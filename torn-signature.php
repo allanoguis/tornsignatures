@@ -1,8 +1,8 @@
 <?php
 
 //set faction ID and faction name here.
-$factionid='ADD_FACTION_ID_HERE';
-$factioname='ADD_FACTION_NAME_HERE';
+$factionid='57494';
+$factioname='The Retreat';
 //caching time of signature image so that you dont spam the server with requests. 
 $cachetime = 10;
 //The path and filename that we give to the image when we cache it.
